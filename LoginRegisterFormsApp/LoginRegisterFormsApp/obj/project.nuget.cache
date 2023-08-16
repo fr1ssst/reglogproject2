@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZ1aBkzUximMaCct/VMzs4n8541z9LgDhGUpou+mtAg5j+oe2vZUcO4NboKZ+QQP5mEmobzlnXohbRl32RJFyg==",
+  "success": true,
+  "projectFilePath": "D:\\VisiualCode\\LoginRegisterFormsApp\\LoginRegisterFormsApp\\LoginRegisterFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"BCrypt.Net 0.1.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "BCrypt.Net",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
